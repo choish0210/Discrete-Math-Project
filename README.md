@@ -12,5 +12,3 @@
 정점: node
 간선: edge
 가중치: weight
-
-각자의 브랜치에 작업 후 main에 병합
