@@ -1,8 +1,8 @@
-# Discrete-Math-Project
+Discrete-Math-Project
+
 26-2 이산수학 그래프 탐방 및 최단거리 알고리즘 프로젝트
 
-
-일정:
+📅 프로젝트 일정
 
 ~ 11/22 : 코드 및 그래프 작성 완료
 
@@ -12,12 +12,18 @@
 
 ~ 11/29 : 보고서 작성 완료
 
+📖 용어 정리
 
- 
-용어 정리
+정점
 
-정점: node
+Node (Vertex)
 
-간선: edge
+간선
+
+Edge
+
+가중치
+
+Weight
 
 가중치: weight
