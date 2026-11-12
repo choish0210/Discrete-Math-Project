@@ -1,5 +1,6 @@
 
 ### IntelliJ IDEA ###
+# Ignore IntelliJ project settings
 .idea/
 out/
 !**/src/main/**/out/
