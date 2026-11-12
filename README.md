@@ -16,14 +16,10 @@ Discrete-Math-Project
 
 정점
 
-Node (Vertex)
+📖 용어 정리
 
-간선
+정점: Node
 
-Edge
+간선: Edge
 
-가중치
-
-Weight
-
-가중치: weight
+가중치: Weight
