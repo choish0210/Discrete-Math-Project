@@ -14,10 +14,6 @@ Discrete-Math-Project
 
 📖 용어 정리
 
-정점
-
-📖 용어 정리
-
 정점: Node
 
 간선: Edge
